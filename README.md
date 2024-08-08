@@ -1,6 +1,6 @@
 - 👋 Hi, I’m "@AzraelOfficial" but my real name is "Hosin Sharifi"(I know, it's not a familiar name)
 - 👀 I’m interested in music, electronic and arts
-- 🌱 I’m currently learning Arduiuno, python, duckyscript amd more...
+- 🌱 I’m currently learning Arduiuno, python, duckyscript and more...
 - 💞️ I’m looking to collaborate on friendship
 - 📫 How to reach me "hosinsharifi477@gmail.com"
 - 😄 Pronouns: He
